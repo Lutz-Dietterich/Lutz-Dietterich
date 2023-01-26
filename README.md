@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hi, I'm Lutz and a prospective web developer. With the help of the \[link\](https://www.neuefische.de/) BOOTCAMP, I am learning to program modern, interactive websites.
+Hi, I'm a prospective web developer. With the help of the [NEUEFISCHE](https://www.neuefische.de) BOOTCAMP, I am learning to program modern, interactive websites.
 
 * 🌍  I'm based in Lauenburg/Elbe
 * 🖥️  See my portfolio at [www.lutz-dietterich.de](http://lutz-dietterich.de)
