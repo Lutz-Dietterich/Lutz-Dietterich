@@ -7,7 +7,7 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 - 🌍 Ich bin in Lauenburg/Elbe ansässig und bin offen für Remote-Arbeit oder eine Anstellung in der Nähe meines Standorts.
 - 💻 In meinem Portfolio kannst du einige meiner bisherigen Arbeiten und Projekte einsehen. Besuche [www.lutz-dietterich.de](http://lutz-dietterich.de), um mehr zu erfahren.
 - ✉️ Du kannst mich per E-Mail unter [lutzdietterich@googlemail.com](mailto:lutzdietterich@googlemail.com) erreichen. Ich freue mich über Anfragen, Zusammenarbeit oder einfach nur um in Kontakt zu bleiben.
-- 🚀 Aktuell arbeite ich an meinem Hobbyprojekt [Hanse-Outdoor](http://hanse-outdoor.de). Es ist eine Website, die sich mit Outdoor-Aktivitäten und Ausrüstung befasst. Schau gerne vorbei und entdecke meine Arbeit.
+<!---- 🚀 Aktuell arbeite ich an meinem Hobbyprojekt [Hanse-Outdoor](http://hanse-outdoor.de). Es ist eine Website, die sich mit Outdoor-Aktivitäten und Ausrüstung befasst. Schau gerne vorbei und entdecke meine Arbeit. --->
 - 🧠 Mein technisches Know-how umfasst folgende Fähigkeiten:
 
   ## Skills
@@ -33,7 +33,7 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 </p>
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="URL_TO_MONGODB_LOGO" width="36" height="36" alt="MongoDB" /></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/symxehwkifikexpzy0du.png" width="36" height="36" alt="MongoDB" /></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
 </p>
 
 <p align="left">
@@ -65,9 +65,9 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 
 Hier sind einige meiner bisherigen Projekte:
 
-1. **Hanse-Outdoor** - Eine Website, die Outdoor-Aktivitäten und Ausrüstung präsentiert. Die Seite bietet Informationen zu verschiedenen Aktivitäten, empfohlener Ausrüstung und Veranstaltungen. Besuche [hanse-outdoor.de](http://hanse-outdoor.de), um mehr zu erfahren.
+<!---1. **Hanse-Outdoor** - Eine Website, die Outdoor-Aktivitäten und Ausrüstung präsentiert. Die Seite bietet Informationen zu verschiedenen Aktivitäten, empfohlener Ausrüstung und Veranstaltungen. Besuche [hanse-outdoor.de](http://hanse-outdoor.de), um mehr zu erfahren. ---->
 
-2. **Portfolio-Website** - Meine persönliche Portfolio-Website, auf der ich meine bisherigen Arbeiten und Projekte präsentiere. Du kannst sie unter [www.lutz-dietterich.de](http://lutz-dietterich.de) besuchen.
+**Portfolio-Website** - Meine persönliche Portfolio-Website, auf der ich meine bisherigen Arbeiten und Projekte präsentiere. Du kannst sie unter [www.lutz-dietterich.de](http://lutz-dietterich.de) besuchen.
 
 ## Anstellung und Zusammenarbeit
 
