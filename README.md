@@ -16,49 +16,70 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /><br></a> JavaScript: Ich bin versiert in der Arbeit mit JavaScript und der Entwicklung von interaktiven Webanwendungen.
 </p>
 
+<br>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> HTML5: Ich habe umfangreiche Erfahrung in der Erstellung semantisch korrekter HTML-Strukturen.
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /><br></a> HTML5: Ich habe umfangreiche Erfahrung in der Erstellung semantisch korrekter HTML-Strukturen.
 </p>
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> React: Ich beherrsche das React-Framework und kann damit leistungsstarke und skalierbare Webanwendungen entwickeln.
-</p>
+<br>
 
 <p align="center">
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS3: Mit CSS3 gestalte ich ansprechende und benutzerfreundliche Benutzeroberflächen.
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /><br></a> React: Ich beherrsche das React-Framework und kann damit leistungsstarke und skalierbare Webanwendungen entwickeln.
 </p>
 
-<p align="center">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a> Node.js: Ich arbeite mit Node.js, um serverseitige Logik zu implementieren und APIs zu erstellen.
-</p>
+<br>
 
 <p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/symxehwkifikexpzy0du.png" width="18" height="36" alt="MongoDB" /></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /><br></a> CSS3: Mit CSS3 gestalte ich ansprechende und benutzerfreundliche Benutzeroberflächen.
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /><br></a> Node.js: Ich arbeite mit Node.js, um serverseitige Logik zu implementieren und APIs zu erstellen.
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/symxehwkifikexpzy0du.png" width="18" height="36" alt="MongoDB" /><br></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
+</p>
+
+<br>
 
 <p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/next_ooxzjx.png" width="36" height="36" alt="Next.js" /></a> Next.js: Ich nutze Next.js für die Entwicklung von serverseitig gerenderten React-Anwendungen.
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/next_ooxzjx.png" width="36" height="36" alt="Next.js" /><br></a> Next.js: Ich nutze Next.js für die Entwicklung von serverseitig gerenderten React-Anwendungen.
 </p>
 
-<p align="center">
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="URL_TO_MONGOOSE_LOGO" width="36" height="36" alt="Mongoose" /></a> Mongoose: Ich verwende Mongoose als ODM für die Interaktion mit MongoDB in Node.js.
-</p>
+<br>
 
 <p align="center">
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/npm_ft7xm3.png" width="36" height="36" alt="npm" /></a> npm: Ich bin vertraut mit npm als Paketmanager für JavaScript-Projekte.
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="URL_TO_MONGOOSE_LOGO" width="36" height="36" alt="Mongoose" /><br></a> Mongoose: Ich verwende Mongoose als ODM für die Interaktion mit MongoDB in Node.js.
 </p>
 
-<p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/lwfdnz3jwboe5li9jlba.png" width="28" height="36" alt="Figma" /></a> Figma: Ich nutze Figma für das Design und die Gestaltung von Benutzeroberflächen.
-</p>
+<br>
 
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/w8hddqz5nxlk5opppj6s.png" width="36" height="36" alt="Git" /></a> Git: Ich verwende Git für die Versionskontrolle und das Arbeiten in Teams.
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/npm_ft7xm3.png" width="36" height="36" alt="npm" /><br></a> npm: Ich bin vertraut mit npm als Paketmanager für JavaScript-Projekte.
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="URL_TO_GITHUB_LOGO" width="36" height="36" alt="GitHub" /></a> GitHub: Ich habe Erfahrung in der Verwaltung von Projekten und dem Zusammenarbeiten mit Git auf GitHub.
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/lwfdnz3jwboe5li9jlba.png" width="28" height="36" alt="Figma" /><br></a> Figma: Ich nutze Figma für das Design und die Gestaltung von Benutzeroberflächen.
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/w8hddqz5nxlk5opppj6s.png" width="36" height="36" alt="Git" /><br></a> Git: Ich verwende Git für die Versionskontrolle und das Arbeiten in Teams.
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="URL_TO_GITHUB_LOGO" width="36" height="36" alt="GitHub" /><br></a> GitHub: Ich habe Erfahrung in der Verwaltung von Projekten und dem Zusammenarbeiten mit Git auf GitHub.
 </p>
 
 
