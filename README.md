@@ -10,25 +10,56 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 - 🚀 Aktuell arbeite ich an meinem Hobbyprojekt [Hanse-Outdoor](http://hanse-outdoor.de). Es ist eine Website, die sich mit Outdoor-Aktivitäten und Ausrüstung befasst. Schau gerne vorbei und entdecke meine Arbeit.
 - 🧠 Mein technisches Know-how umfasst folgende Fähigkeiten:
 
-  <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> JavaScript: Ich bin versiert in der Arbeit mit JavaScript und der Entwicklung von interaktiven Webanwendungen.
-  </p>
+  ## Skills
 
-  <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> HTML5: Ich habe umfangreiche Erfahrung in der Erstellung semantisch korrekter HTML-Strukturen.
-  </p>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> JavaScript: Ich bin versiert in der Arbeit mit JavaScript und der Entwicklung von interaktiven Webanwendungen.
+</p>
 
-  <p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> React: Ich beherrsche das React-Framework und kann damit leistungsstarke und skalierbare Webanwendungen entwickeln.
-  </p>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> HTML5: Ich habe umfangreiche Erfahrung in der Erstellung semantisch korrekter HTML-Strukturen.
+</p>
 
-  <p align="left">
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS3: Mit CSS3 gestalte ich ansprechende und benutzerfreundliche Benutzeroberflächen.
-  </p>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> React: Ich beherrsche das React-Framework und kann damit leistungsstarke und skalierbare Webanwendungen entwickeln.
+</p>
 
-  <p align="left">
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a> Node.js: Ich arbeite mit Node.js, um serverseitige Logik zu implementieren und APIs zu erstellen.
-  </p>
+<p align="left">
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS3: Mit CSS3 gestalte ich ansprechende und benutzerfreundliche Benutzeroberflächen.
+</p>
+
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a> Node.js: Ich arbeite mit Node.js, um serverseitige Logik zu implementieren und APIs zu erstellen.
+</p>
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="URL_TO_MONGODB_LOGO" width="36" height="36" alt="MongoDB" /></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
+</p>
+
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="URL_TO_NEXTJS_LOGO" width="36" height="36" alt="Next.js" /></a> Next.js: Ich nutze Next.js für die Entwicklung von serverseitig gerenderten React-Anwendungen.
+</p>
+
+<p align="left">
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="URL_TO_MONGOOSE_LOGO" width="36" height="36" alt="Mongoose" /></a> Mongoose: Ich verwende Mongoose als ODM für die Interaktion mit MongoDB in Node.js.
+</p>
+
+<p align="left">
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="URL_TO_NPM_LOGO" width="36" height="36" alt="npm" /></a> npm: Ich bin vertraut mit npm als Paketmanager für JavaScript-Projekte.
+</p>
+
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="URL_TO_FIGMA_LOGO" width="36" height="36" alt="Figma" /></a> Figma: Ich nutze Figma für das Design und die Gestaltung von Benutzeroberflächen.
+</p>
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="URL_TO_GIT_LOGO" width="36" height="36" alt="Git" /></a> Git: Ich verwende Git für die Versionskontrolle und das Arbeiten in Teams.
+</p>
+
+<p align="left">
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="URL_TO_GITHUB_LOGO" width="36" height="36" alt="GitHub" /></a> GitHub: Ich habe Erfahrung in der Verwaltung von Projekten und dem Zusammenarbeiten mit Git auf GitHub.
+</p>
+
 
 ## Projekte
 
