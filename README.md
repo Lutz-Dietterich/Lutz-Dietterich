@@ -48,7 +48,7 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/next_ooxzjx.png" width="36" height="36" alt="Next.js" /><br></a> Next.js: Ich nutze Next.js für die Entwicklung von serverseitig gerenderten React-Anwendungen.
 </p>
 
