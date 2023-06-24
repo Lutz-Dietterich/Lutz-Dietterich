@@ -12,27 +12,27 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 
   ## Skills
 
-<p align="center" margin-right="10px">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> JavaScript: Ich bin versiert in der Arbeit mit JavaScript und der Entwicklung von interaktiven Webanwendungen.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> HTML5: Ich habe umfangreiche Erfahrung in der Erstellung semantisch korrekter HTML-Strukturen.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> React: Ich beherrsche das React-Framework und kann damit leistungsstarke und skalierbare Webanwendungen entwickeln.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS3: Mit CSS3 gestalte ich ansprechende und benutzerfreundliche Benutzeroberflächen.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a> Node.js: Ich arbeite mit Node.js, um serverseitige Logik zu implementieren und APIs zu erstellen.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/symxehwkifikexpzy0du.png" width="18" height="36" alt="MongoDB" /></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
 </p>
 
@@ -40,23 +40,23 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/next_ooxzjx.png" width="36" height="36" alt="Next.js" /></a> Next.js: Ich nutze Next.js für die Entwicklung von serverseitig gerenderten React-Anwendungen.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="URL_TO_MONGOOSE_LOGO" width="36" height="36" alt="Mongoose" /></a> Mongoose: Ich verwende Mongoose als ODM für die Interaktion mit MongoDB in Node.js.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/npm_ft7xm3.png" width="36" height="36" alt="npm" /></a> npm: Ich bin vertraut mit npm als Paketmanager für JavaScript-Projekte.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/lwfdnz3jwboe5li9jlba.png" width="28" height="36" alt="Figma" /></a> Figma: Ich nutze Figma für das Design und die Gestaltung von Benutzeroberflächen.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/w8hddqz5nxlk5opppj6s.png" width="36" height="36" alt="Git" /></a> Git: Ich verwende Git für die Versionskontrolle und das Arbeiten in Teams.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="URL_TO_GITHUB_LOGO" width="36" height="36" alt="GitHub" /></a> GitHub: Ich habe Erfahrung in der Verwaltung von Projekten und dem Zusammenarbeiten mit Git auf GitHub.
 </p>
 
@@ -71,7 +71,7 @@ Hier sind einige meiner bisherigen Projekte:
 
 ## Anstellung und Zusammenarbeit
 
-Ich bin derzeit auf der Suche nach neuen beruflichen Herausforderungen und offenen Stellen als Webentwickler. Wenn du Interesse an einer Zusammenarbeit hast oder mehr über meine Fähigkeiten erfahren möchtest, zögere nicht, mich zu kontaktieren. Ich stehe auch für Freelance-Projekte oder Remote-Arbeit zur Verfügung.
+Ich bin derzeit auf der Suche nach neuen beruflichen Herausforderungen und offenen Stellen als Webentwickler. Wenn du Interesse an einer Zusammenarbeit hast oder mehr über meine Fähigkeiten erfahren möchtest, zögere nicht, mich zu kontaktieren.
 
 ## Kontakt
 
