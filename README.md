@@ -33,11 +33,11 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 </p>
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/symxehwkifikexpzy0du.png" width="36" height="36" alt="MongoDB" /></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/symxehwkifikexpzy0du.png" width="18" height="36" alt="MongoDB" /></a> MongoDB: Ich habe Erfahrung in der Arbeit mit MongoDB für die Entwicklung von Datenbanklösungen.
 </p>
 
 <p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="URL_TO_NEXTJS_LOGO" width="36" height="36" alt="Next.js" /></a> Next.js: Ich nutze Next.js für die Entwicklung von serverseitig gerenderten React-Anwendungen.
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/next_ooxzjx.png" width="36" height="36" alt="Next.js" /></a> Next.js: Ich nutze Next.js für die Entwicklung von serverseitig gerenderten React-Anwendungen.
 </p>
 
 <p align="left">
@@ -45,15 +45,15 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 </p>
 
 <p align="left">
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="URL_TO_NPM_LOGO" width="36" height="36" alt="npm" /></a> npm: Ich bin vertraut mit npm als Paketmanager für JavaScript-Projekte.
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1686064130/skills/npm_ft7xm3.png" width="36" height="36" alt="npm" /></a> npm: Ich bin vertraut mit npm als Paketmanager für JavaScript-Projekte.
 </p>
 
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="URL_TO_FIGMA_LOGO" width="36" height="36" alt="Figma" /></a> Figma: Ich nutze Figma für das Design und die Gestaltung von Benutzeroberflächen.
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/lwfdnz3jwboe5li9jlba.png" width="28" height="36" alt="Figma" /></a> Figma: Ich nutze Figma für das Design und die Gestaltung von Benutzeroberflächen.
 </p>
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="URL_TO_GIT_LOGO" width="36" height="36" alt="Git" /></a> Git: Ich verwende Git für die Versionskontrolle und das Arbeiten in Teams.
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dnojoo4vt/image/upload/v1685635009/skills/w8hddqz5nxlk5opppj6s.png" width="36" height="36" alt="Git" /></a> Git: Ich verwende Git für die Versionskontrolle und das Arbeiten in Teams.
 </p>
 
 <p align="left">
