@@ -6,7 +6,7 @@ Hi, ich bin Lutz Dietterich, ein erfahrener Webentwickler mit einer Leidenschaft
 
 - 🌍 Ich bin in Lauenburg/Elbe ansässig und bin offen für Remote-Arbeit oder eine Anstellung in der Nähe meines Standorts.
 - 💻 In meinem Portfolio kannst du einige meiner bisherigen Arbeiten und Projekte einsehen. Besuche [www.lutz-dietterich.de](http://lutz-dietterich.de), um mehr zu erfahren.
-- ✉️ Du kannst mich per E-Mail unter [lutzdietterich@googlemail.com](mailto:lutzdietterich@googlemail.com) erreichen. Ich freue mich über Anfragen, Zusammenarbeit oder einfach nur um in Kontakt zu bleiben.
+- ✉️ Du kannst mich per E-Mail unter [hallo@lutz-dietterich.de](mailto:hallo@lutz-dietterich.de) erreichen. Ich freue mich über Anfragen, Zusammenarbeit oder einfach nur um in Kontakt zu bleiben.
 <!---- 🚀 Aktuell arbeite ich an meinem Hobbyprojekt [Hanse-Outdoor](http://hanse-outdoor.de). Es ist eine Website, die sich mit Outdoor-Aktivitäten und Ausrüstung befasst. Schau gerne vorbei und entdecke meine Arbeit. --->
 - 🧠 Mein technisches Know-how umfasst folgende Fähigkeiten:
 
