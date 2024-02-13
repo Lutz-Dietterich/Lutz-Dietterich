@@ -1,6 +1,6 @@
 # Lutz Dietterich - Web Developer
 
-Hi, ich bin Lutz Dietterich, mit einer Leidenschaft für die Entwicklung moderner, interaktiver Websites. Ich habe erfolgreich eine Ausbildung zum Webdeveloper abgeschlossen und bin nun auf der Suche nach neuen Herausforderungen und spannenden Projekten.
+Hi, ich bin Lutz Dietterich, mit einer Leidenschaft für die Entwicklung moderner, interaktiver Webapps. Ich habe erfolgreich eine Ausbildung zum Webdeveloper abgeschlossen und bin nun auf der Suche nach neuen Herausforderungen und spannenden Projekten.
 
 ## Über mich
 
